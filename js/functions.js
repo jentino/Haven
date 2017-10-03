@@ -32,7 +32,7 @@ function mypb(){
 		$(function() {
 			
 			var current_progress = 0;
-			current_progress = (maxProfit/97 * 100).toFixed();
+			current_progress = (maxProfit/1000 * 100).toFixed();
 			$("#dynamic")
 			.css("width", current_progress + "%")
 			.attr("aria-valuenow", current_progress)

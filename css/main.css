@@ -177,7 +177,7 @@ div.tockTime {
 }
 
 .container {
-	max-width:560px;
+	max-width:auto;
 }
 
 .progress-bar-info {

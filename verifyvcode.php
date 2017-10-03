@@ -14,7 +14,7 @@
         if($user->verifyvcode()){
 
                 echo "<script>alert('Verification code has been checked. You can now log in with your details.');</script>";
-                echo "<script>location.href='http://127.0.0.1/login.php'</script>";
+                echo "<script>location.href='https://binaryhopper-jentino.c9users.io/login.php'</script>";
                    
                                
         }else{

@@ -16,12 +16,12 @@ if($_POST){
 
     if($login->checkStatus()){
 
-        echo "<script>location.href='http://127.0.0.1/binaryhopper/index.php'</script>";
+        echo "<script>location.href='https://binaryhopper-jentino.c9users.io/index.php'</script>";
 
     }   
 	else {
 
-         echo "<script>location.href='http://127.0.0.1/binaryhopper/verifyvcode.php'</script>";
+         echo "<script>location.href='https://binaryhopper-jentino.c9users.io/verifyvcode.php'</script>";
     
     }
 		

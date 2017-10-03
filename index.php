@@ -116,7 +116,7 @@ $funcname = "Connect";
           <img class="ribbon" src="img/ribbon.png">
             <div class="row">
                 <div class="col-xs-6">
-                  <h4 class="modal-title" id="myModalLabel"><b>Binary<font color="#59E817">Haven</font>&trade;</b> HOPPER  </h4>
+                  <h4 class="modal-title" id="myModalLabel"><b>Binary<font color="#59E817">Haven</font>&trade;</b>  </h4>
                 </div>
                 <div class="col-xs-6 paddown padleftbuttons">
                
@@ -146,7 +146,7 @@ $funcname = "Connect";
                    <a href="#" id="btnconnect" onclick="Connect('<?php echo $user->token_id_live;?>', '<?php echo $user->app_id_live;?>');"><button type="button" class="btn btn-default btn-xs extrasmall" >Connect</button></a> 
 
 
-                    <a href="http://127.0.0.1/binaryhopper/logout.php" id="btnlogout"><button type="button" class="btn btn-default btn-xs extrasmall" >Logout</button></a> 
+                    <a href="https://binaryhopper-jentino.c9users.io/logout.php" id="btnlogout"><button type="button" class="btn btn-default btn-xs extrasmall" >Logout</button></a> 
                   
 
 
@@ -241,17 +241,17 @@ $funcname = "Connect";
                                 <div class="row padup" >
 
                                 <div class="col-xs-3 col-xs-4-main-profiledash-under-1">
-                                    <h6><small>PROFIT<br><b>$</b><b id="profitupdate">0</b></small></h6>
+                                    <h6><small>PROFITS<br><b>$</b><b id="profitupdate">0</b></small></h6>
                                 </div>
 
                                 
                                 
                                 <div class="col-xs-3 col-xs-4-main-profiledash-under-1">
-                                    <h6><small >ORIGINAL BAL.<br><b>$</b><b id="originalbalance">0</b></small></h6>
+                                    <h6><small >ORIGINAL BALANCE<br><b>$</b><b id="originalbalance">0</b></small></h6>
                                 </div>
                                 
                                 <div class="col-xs-3 col-xs-4-main-profiledash-under-1">
-                                    <h6><small>RESCUE<br><b>$</b><b id="showrescueamount">0</b></small></h6>
+                                    <h6><small>SOS<br><b>$</b><b id="showrescueamount">0</b></small></h6>
                                 </div> 
 
                                 <div class="col-xs-3 col-xs-4-main-profiledash-under-1">

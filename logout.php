@@ -1,5 +1,5 @@
 <?php
 session_start();
-echo "<script>location.href='http://127.0.0.1/binaryhopper/index.php'</script>";
+echo "<script>location.href='https://binaryhopper-jentino.c9users.io/index.php'</script>";
 session_destroy();
 ?>

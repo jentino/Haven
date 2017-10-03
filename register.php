@@ -23,7 +23,7 @@ if($_POST){
 ?>
 
 <?php
-    echo "<script>location.href='http://127.0.0.1/binaryhopper/success.php/?username=$user->username'</script>";
+    echo "<script>location.href='https://binaryhopper-jentino.c9users.io/success.php/?username=$user->username'</script>";
  }else{
 ?>
 
